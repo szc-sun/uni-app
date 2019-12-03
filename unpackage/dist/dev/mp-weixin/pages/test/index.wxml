@@ -1,0 +1,1 @@
+<view class="content"><uni-nav-bar vue-id="1" left-icon="back()" left-text="返回" right-text="菜单" title="导航栏组件" data-event-opts="{{[['^clickLeft',[['back']]]]}}" bind:clickLeft="__e" bind:__l="__l"></uni-nav-bar><view>{{''+title+''}}</view></view>

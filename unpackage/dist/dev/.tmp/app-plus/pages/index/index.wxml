@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title+"123"}}</text><button data-event-opts="{{[['tap',[['scan',['$event']]]]]}}" bindtap="__e">扫码</button><label hidden="{{!(code)}}" class="_span">{{code}}</label></view><footer-nav vue-id="1" bind:__l="__l"></footer-nav></view>

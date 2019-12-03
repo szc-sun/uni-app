@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "sun-app",
+  "usingComponents": {
+    "footer-nav": "/components/footer/footer_nav"
+  }
+}

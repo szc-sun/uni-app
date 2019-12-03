@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/test/index",
+    "pages/index/pages/home/home",
+    "pages/index/pages/message/message",
+    "pages/index/pages/cart/cart",
+    "pages/index/pages/center/center"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "sun-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "uni-test",
+  "compilerVersion": "2.4.2",
+  "usingComponents": {}
+}

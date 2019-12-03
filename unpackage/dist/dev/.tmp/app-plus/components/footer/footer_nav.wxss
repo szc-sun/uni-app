@@ -1,0 +1,31 @@
+
+.footer{
+	height: 120rpx;
+	
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background-color: #181E30;
+	color: #fff;
+}
+.footer_item{
+	float: left;
+	width: 33.3%;
+	text-align: center;
+	font-size: 28rpx;
+	height: 120rpx;
+}
+.footer_item image{
+	width: 60rpx;
+	height: 60rpx;
+}
+.footer_item.big_item{
+	position: relative;
+	top: -40rpx;
+}
+.footer_item.big_item image{
+	width: 100rpx;
+	height: 100rpx;
+}
+
